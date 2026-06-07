@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <!-- Fishhook shape -->
+  <line x1="12" y1="1" x2="12" y2="14" stroke="#f5a623" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M12 14 C12 18, 18 18, 18 14" stroke="#f5a623" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <line x1="18" y1="14" x2="18" y2="20" stroke="#f5a623" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Barb -->
+  <line x1="18" y1="20" x2="15" y2="18" stroke="#f5a623" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Eye of hook -->
+  <circle cx="12" cy="2.5" r="1.5" stroke="#f5a623" stroke-width="1.2" fill="none"/>
+</svg>
